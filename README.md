@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Ruben Arevalo, and I am a software engineer based in McAllen, Texas! I am currently interested in the following fields:
+- Software Engineering 🧑‍💻
+- Full-Stack Development 📚
+- Artificial Intelligence 🤖
 <!--
 **rchrisarevalo/rchrisarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
