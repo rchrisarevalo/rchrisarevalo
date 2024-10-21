@@ -1,14 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 Hi everyone! My name is Ruben Arevalo, and I am a software engineer from McAllen, Texas. 
 
 I am 23 years old, and I was born and raised in the Rio Grande Valley (RGV), having earned my associate's degree in computer science from **South Texas College**, my high school diploma from **Achieve Early College High School**, and my bachelor's degree in computer engineering--with a concentration in software development--from the **University of Texas - Rio Grande Valley**. 
 
-I am currently interested in the following fields:
+# Currently Interested In:
 - Software Engineering 🧑‍💻
 - Full-Stack Development 📚
 - Artificial Intelligence & Deep/Machine Learning 🤖
 
-Outside of coding, which is also one of my hobbies, I love to listen to music 🎵, watch TV shows, movies, and anime 🎥📺, and spend time with my family and friends 👨‍👩‍👧‍👦.
+# Interests & Hobbies:
+- Coding 💻
+- Music 🎵
+- TV shows, movies, and anime 🎥📺
+- Spend time with family and friends 👨‍👩‍👧‍👦
 <!--
 **rchrisarevalo/rchrisarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
