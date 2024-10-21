@@ -6,7 +6,9 @@ I am 23 years old, and I was born and raised in the Rio Grande Valley (RGV) for 
 I am currently interested in the following fields:
 - Software Engineering 🧑‍💻
 - Full-Stack Development 📚
-- Artificial Intelligence 🤖
+- Artificial Intelligence & Deep/Machine Learning 🤖
+
+Outside of coding, which is also one of my hobbies, I love to listen to music 🎵, watch TV shows, movies, and anime 🎥📺, and spend time with my family and friends 👨‍👩‍👧‍👦.
 <!--
 **rchrisarevalo/rchrisarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
