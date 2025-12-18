@@ -1,7 +1,9 @@
 # Hi there 👋
 Hi everyone! My name is Ruben Arevalo, and I am a software engineer from McAllen, Texas. 
 
-I am 24 years old, and I was born and raised in the Rio Grande Valley (RGV), having earned my associate's degree in computer science from **South Texas College**, my high school diploma from **Achieve Early College High School**, and my bachelor's degree in computer engineering--with a concentration in software development--from the **University of Texas - Rio Grande Valley**. 
+I am 24 years old, and I was born and raised in the Rio Grande Valley (RGV), having earned my associate's degree in computer science from **South Texas College**, my high school diploma from **Achieve Early College High School**, and my bachelor's degree in computer engineering--with a concentration in software development--from the **University of Texas - Rio Grande Valley**.
+
+If you want to learn moree about me and my work, visit my [personal website](https://rubenarevalo.com "Ruben Arevalo | Software Engineer")!
 
 # Currently Interested In:
 - Software Engineering 🧑‍💻
