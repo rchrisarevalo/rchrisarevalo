@@ -1,20 +1,36 @@
-# Hi there 👋
-Hi everyone! My name is Ruben Arevalo, and I am a software engineer from McAllen, Texas. 
+# Hi, I'm Ruben Arevalo 👋
+I'm a full stack software engineer and AI developer based in McAllen, Texas, born and raised in the Rio Grande Valley. I build custom software, AI automation, and RAG-powered applications for businesses in Texas and beyond.
 
-I am 24 years old, and I was born and raised in the Rio Grande Valley (RGV), having earned my associate's degree in computer science from **South Texas College**, my high school diploma from **Achieve Early College High School**, and my bachelor's degree in computer engineering--with a concentration in software development--from the **University of Texas - Rio Grande Valley**.
+I run **[Ruben Arevalo AI & Software Studio](https://rubenarevalo.com "Custom AI & Software Development in Texas | Ruben Arevalo")**, a boutique studio focused on custom web development, AI agent workflows, and internal business tools.
 
-If you want to learn more about me and my work, visit [Ruben Arevalo AI & Software Studio](https://rubenarevalo.com "Custom AI & Software Development in Texas | Ruben Arevalo")!
+---
 
-# Currently Interested In:
-- Software Engineering 🧑‍💻
-- Full-Stack Development 📚
-- Artificial Intelligence & Deep/Machine Learning 🤖
+## What I build
+- **AI automation** - RAG chatbots, agentic workflows, LLM integrations using Groq, OpenAI, and the Anthropic SDK
+- **Full-stack web apps** - Next.js, React, TypeScript, Tailwind, Firebase, PostgreSQL, MySQL
+- **Internal business tools** - CMS platforms, HR/payroll systems, project management dashboards
+- **APIs & backend** - FastAPI, Python, Redis, REST
 
-# Interests & Hobbies:
-- Coding 💻
-- Music 🎵
-- TV shows, movies, and anime 🎥📺
-- Spend time with family and friends 👨‍👩‍👧‍👦
+---
+
+## Currently shipping
+- 🤖 **Benny** - A lead-qualifying RAG chatbot for service businesses, built with Groq + OpenAI embeddings on top of the existing RAG pipelines it was originally configured with.
+- 🛠️ **J.A.L.E (Job Automation & Logistics Engine)** - An internal business platform covering HR/payroll, project management, SOW generation, and agentic AI timesheet monitoring. Built as a guinea pig for a future multi-client SaaS product.
+- 📝 **The Studio Blog** - Launching June 30, 2026 at **[rubenarevalo.com/blog](https://rubenarevalo.com/blog "The Studio Blog | Ruben Arevalo AI & Software Studio")**.
+
+---
+
+# Background:
+BS in Computer Engineering (Software Track) - University of Texas Rio Grande Valley, 2023
+AS in Computer Science - South Texas College, 2019
+Headstarter AI Software Engineering Fellow - 2024
+
+---
+
+## Connect:
+- 🌐 [rubenarevalo.com](https://rubenarevalo.com "Ruben Arevalo AI & Software Studio | Custom Software & AI Solutions in Texas & the Rio Grande Valley")
+- 💼 [linkedin.com/in/rchrisarevalo](https://linkedin.com/in/rchrisarevalo)
+- ✍️ [dev.to/rchrisarevalo](https://dev.to/rchrisarevalo)
 <!--
 **rchrisarevalo/rchrisarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
