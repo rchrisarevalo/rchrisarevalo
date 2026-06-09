@@ -14,9 +14,9 @@ I run **[Ruben Arevalo AI & Software Studio](https://rubenarevalo.com "Custom AI
 ---
 
 ## Currently shipping
-- 🤖 **Benny** - A lead-qualifying RAG chatbot for service businesses, built with Groq + OpenAI embeddings on top of the existing RAG pipelines it was originally configured with.
-- 🛠️ **J.A.L.E (Job Automation & Logistics Engine)** - An internal business platform covering HR/payroll, project management, SOW generation, and agentic AI timesheet monitoring. Built as a guinea pig for a future multi-client SaaS product.
-- 📝 **The Studio Blog** - Launching June 30, 2026 at **[rubenarevalo.com/blog](https://rubenarevalo.com/blog "The Studio Blog | Ruben Arevalo AI & Software Studio")**.
+- **Benny** - A lead-qualifying RAG chatbot for service businesses, built with Groq + OpenAI embeddings on top of the existing RAG pipelines it was originally configured with.
+- **J.A.L.E (Job Automation & Logistics Engine)** - An internal business platform covering HR/payroll, project management, SOW generation, and agentic AI timesheet monitoring. Built as a guinea pig for a future multi-client SaaS product.
+- **The Studio Blog** - Launching June 30, 2026 at **[rubenarevalo.com/blog](https://rubenarevalo.com/blog "The Studio Blog | Ruben Arevalo AI & Software Studio")**.
 
 ---
 
@@ -28,9 +28,9 @@ Headstarter AI Software Engineering Fellow - 2024
 ---
 
 ## Connect:
-- 🌐 [rubenarevalo.com](https://rubenarevalo.com "Ruben Arevalo AI & Software Studio | Custom Software & AI Solutions in Texas & the Rio Grande Valley")
-- 💼 [linkedin.com/in/rchrisarevalo](https://linkedin.com/in/rchrisarevalo)
-- ✍️ [dev.to/rchrisarevalo](https://dev.to/rchrisarevalo)
+- [rubenarevalo.com](https://rubenarevalo.com "Ruben Arevalo AI & Software Studio | Custom Software & AI Solutions in Texas & the Rio Grande Valley")
+- [linkedin.com/in/rchrisarevalo](https://linkedin.com/in/rchrisarevalo)
+- [dev.to/rchrisarevalo](https://dev.to/rchrisarevalo)
 <!--
 **rchrisarevalo/rchrisarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
