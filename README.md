@@ -30,7 +30,7 @@ Headstarter AI Software Engineering Fellow - 2024
 ## Connect:
 - [rubenarevalo.com](https://rubenarevalo.com "Ruben Arevalo AI & Software Studio | Custom Software & AI Solutions in Texas & the Rio Grande Valley")
 - [linkedin.com/in/rchrisarevalo](https://linkedin.com/in/rchrisarevalo)
-- [dev.to/rchrisarevalo](https://dev.to/bennyarevalo)
+- [dev.to/bennyarevalo](https://dev.to/bennyarevalo)
 <!--
 **rchrisarevalo/rchrisarevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
