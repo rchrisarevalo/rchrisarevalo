@@ -1,7 +1,7 @@
 # Hi, I'm Ruben Arevalo 👋
-I'm a full stack software engineer and AI developer based in McAllen, Texas, born and raised in the Rio Grande Valley. I build custom software, AI automation, and RAG-powered applications for businesses in Texas and beyond.
+I'm the founder of **[Ruben Arevalo AI & Software Studio](https://rubenarevalo.com "Custom AI & Software Development in Texas | Ruben Arevalo")**, a McAllen-based AI and software studio serving businesses across the Rio Grande Valley and Texas.
 
-I run **[Ruben Arevalo AI & Software Studio](https://rubenarevalo.com "Custom AI & Software Development in Texas | Ruben Arevalo")**, a boutique studio focused on custom web development, AI agent workflows, and internal business tools.
+I'm also a full stack software engineer and AI developer, born and raised in the Rio Grande Valley, focused on custom software, AI automation, RAG-powered applications, and internal business tools.
 
 ---
 
