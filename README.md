@@ -15,7 +15,7 @@ I'm also a full stack software engineer and AI developer, born and raised in the
 
 ## Currently shipping
 - **Benny** - A lead-qualifying RAG chatbot for service businesses, built with Groq + OpenAI embeddings on top of the existing RAG pipelines it was originally configured with.
-- **J.A.L.E (Job Automation & Logistics Engine)** - An internal business platform covering HR/payroll, project management, SOW generation, and agentic AI timesheet monitoring. Built as a guinea pig for a future multi-client SaaS product.
+- **J.A.L.E (Job Automation & Logistics Engine)** - An internal business platform covering HR/payroll, project management, SOW generation, and agentic AI timesheet monitoring. Built as a guinea pig for a future multi-client SaaS product. Now available at **[jaleengine.com](https://jaleengine.com)**!
 - **The Studio Blog** - Now available at **[rubenarevalo.com/blog](https://rubenarevalo.com/blog "The Studio Blog | Ruben Arevalo AI & Software Studio")**!
 
 ---
