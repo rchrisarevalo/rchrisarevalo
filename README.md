@@ -21,9 +21,9 @@ I'm also a full stack software engineer and AI developer, born and raised in the
 ---
 
 # Background:
-BS in Computer Engineering (Software Track) - University of Texas Rio Grande Valley, 2023
-AS in Computer Science - South Texas College, 2019
-Headstarter AI Software Engineering Fellow - 2024
+- BS in Computer Engineering (Software Track) - University of Texas Rio Grande Valley, 2023
+- AS in Computer Science - South Texas College, 2019
+- Headstarter AI Software Engineering Fellow - 2024
 
 ---
 
